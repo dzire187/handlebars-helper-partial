@@ -29,7 +29,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "mixin-deep": "^1.0.1"
+    "mixin-deep": "1.1.0"
   },
   "devDependencies": {
     "engine-handlebars": "^0.6.1",
